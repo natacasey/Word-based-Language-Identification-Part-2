@@ -19,4 +19,4 @@ The final pipeline consists of the pre-processing accounting for linguistic nuan
 
 
 ## Consideration for the future:
-Accuracy of predictions for the neutral class could be improved by addressing the multipolarity issue of the neutral class reviews
+The recommendation for future work includes experimenting with the type of word n-grams used for feature representation. Testing the outcomes when using unigrams and bigrams, just unigrams, or just bigrams could reveal a new factor affecting the word-based language identification performance. Increasing the pool of languages where word segmentation is performed using white space could allow us to better understand the capabilities of the pipeline. 

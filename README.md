@@ -15,7 +15,7 @@ All of the documentation can be found in the docs folder.
 The final pipeline consists of the pre-processing accounting for linguistic nuances, customized CountVectorizer with the maximum features set to 1,000,000, 1-3 word-based n-grams, and Multinomial Naive Bayes. 
 
 ## Pipeline's Performance
-![picture](https://github.com/natacasey/Word-based-Language-Identification-Part-2/blob/main/_assets/FINAL.PNG_
+![picture](https://github.com/natacasey/Word-based-Language-Identification-Part-2/blob/main/_assets/FINAL.PNG)
 
 
 ## Consideration for the future:

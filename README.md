@@ -2,6 +2,8 @@
 
 This project focuses on designing a language identifier that can generalize to unseen domains trained over the large comparable corpus. The project proves that pre-processing data while preserving linguistic nuances of the languages plays a significant role in the ability of a language identifier to perform well even on short texts outside the domain. Accuracy of over 99% is achieved for long texts and accuracy of 97.8% is achieved for truncated three-word texts with a reduced number of stop words.
 
+## Data can be found [here](https://drive.google.com/drive/folders/1JY2CBTMLoj7o2uBwGWWqfEUFrKeOOvZQ?usp=sharing)
+
 ## Documentation
 
 All of the documentation can be found in the docs folder.
